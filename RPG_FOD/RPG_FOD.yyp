@@ -43,6 +43,7 @@
     {"id":{"name":"spr_warrior_run","path":"sprites/spr_warrior_run/spr_warrior_run.yy",},},
     {"id":{"name":"spr_warrior_still","path":"sprites/spr_warrior_still/spr_warrior_still.yy",},},
     {"id":{"name":"tileset_main","path":"tilesets/tileset_main/tileset_main.yy",},},
+    {"id":{"name":"tileset_water","path":"tilesets/tileset_water/tileset_water.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
