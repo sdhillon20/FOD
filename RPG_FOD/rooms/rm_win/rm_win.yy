@@ -1,6 +1,6 @@
 {
   "$GMRoom":"v1",
-  "%Name":"rm_house",
+  "%Name":"rm_win",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
@@ -9,20 +9,9 @@
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRTileLayer":"","%Name":"Tiles_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_1","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":57,"SerialiseWidth":57,"TileCompressedData":[
-          -330,-2147483648,2,1,2,-4,-2147483648,-2,0,-22,-2147483648,-3,0,-24,-2147483648,2,10,11,-4,-2147483648,
-          -6,0,-17,-2147483648,-4,0,-16,-2147483648,-10,0,-4,-2147483648,-6,0,-15,-2147483648,-5,0,-11,-2147483648,
-          -26,0,-13,-2147483648,-4,0,-7,-2147483648,-2,0,-2,-2147483648,-29,0,-10,-2147483648,-16,0,1,-2147483648,
-          -30,0,-10,-2147483648,-26,0,3,-2147483648,0,0,-3,-2147483648,-8,0,-18,-2147483648,-12,0,-2,-2147483648,
-          -11,0,-30,-2147483648,-12,0,-45,-2147483648,-4,0,-2,-2147483648,-4,0,-47,-2147483648,-3,0,-3,-2147483648,
-          -4,0,-20,-2147483648,-3,0,-24,-2147483648,-2,0,-4,-2147483648,-3,0,-20,-2147483648,-4,0,-30,-2147483648,
-          -3,0,-18,-2147483648,-5,0,-32,-2147483648,-2,0,-18,-2147483648,-4,0,-33,-2147483648,-2,0,-17,-2147483648,
-          -4,0,-52,-2147483648,-4,0,-51,-2147483648,-4,0,-53,-2147483648,-2,0,-52,-2147483648,-2,0,-52,-2147483648,
-          -2,0,3,-2147483648,0,0,-50,-2147483648,-4,0,-50,-2147483648,-5,0,-52,-2147483648,-3,0,-1686,-2147483648,
-        ],"TileDataFormat":1,},"tilesetId":{"name":"tileset_floor","path":"tilesets/tileset_floor/tileset_floor.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
-    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"rm_house",
+  "name":"rm_win",
   "parent":{
     "name":"Rooms",
     "path":"folders/Rooms.yy",
@@ -38,10 +27,10 @@
   "resourceType":"GMRoom",
   "resourceVersion":"2.0",
   "roomSettings":{
-    "Height":900,
+    "Height":768,
     "inheritRoomSettings":false,
     "persistent":false,
-    "Width":900,
+    "Width":1366,
   },
   "sequenceId":null,
   "views":[
