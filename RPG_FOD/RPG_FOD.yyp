@@ -39,6 +39,7 @@
     {"id":{"name":"obj_portal","path":"objects/obj_portal/obj_portal.yy",},},
     {"id":{"name":"obj_tile","path":"objects/obj_tile/obj_tile.yy",},},
     {"id":{"name":"obj_warrior","path":"objects/obj_warrior/obj_warrior.yy",},},
+    {"id":{"name":"rm_house","path":"rooms/rm_house/rm_house.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Dimensional_Portal","path":"sprites/Dimensional_Portal/Dimensional_Portal.yy",},},
     {"id":{"name":"idle_sheet_Sheet","path":"sprites/idle_sheet_Sheet/idle_sheet_Sheet.yy",},},
@@ -84,6 +85,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_house","path":"rooms/rm_house/rm_house.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
