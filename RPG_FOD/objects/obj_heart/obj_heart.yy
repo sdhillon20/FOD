@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_crystal",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_warrior","path":"objects/obj_warrior/obj_warrior.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_heart",
+  "eventList":[],
   "managed":true,
-  "name":"obj_crystal",
+  "name":"obj_heart",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_crystal",
-    "path":"sprites/spr_crystal/spr_crystal.yy",
+    "name":"Sprite30",
+    "path":"sprites/Sprite30/Sprite30.yy",
   },
   "spriteMaskId":null,
   "visible":true,

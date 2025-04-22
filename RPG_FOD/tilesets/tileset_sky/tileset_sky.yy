@@ -8,7 +8,7 @@
     "TileSerialiseData":[],
   },
   "name":"tileset_sky",
-  "out_columns":15,
+  "out_columns":265,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -17,10 +17,7 @@
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
-  "spriteId":{
-    "name":"spr_sky",
-    "path":"sprites/spr_sky/spr_sky.yy",
-  },
+  "spriteId":null,
   "spriteNoExport":false,
   "textureGroupId":{
     "name":"Default",
@@ -34,5 +31,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":240,
+  "tile_count":70250,
 }

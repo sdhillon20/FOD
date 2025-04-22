@@ -1,14 +1,16 @@
 {
   "$GMTileSet":"v1",
   "%Name":"tileset_floor",
-  "autoTileSets":[],
+  "autoTileSets":[
+    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[298,235,237,236,359,297,0,0,0,0,0,0,0,0,0,0,],},
+  ],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
   "name":"tileset_floor",
-  "out_columns":15,
+  "out_columns":27,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -34,5 +36,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":240,
+  "tile_count":744,
 }
