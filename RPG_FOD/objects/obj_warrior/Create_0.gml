@@ -1,5 +1,12 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
+/// @DnDHash : 2A627D66
+/// @DnDArgument : "expr" "1.5"
+/// @DnDArgument : "var" "movespeed"
+movespeed = 1.5;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
 /// @DnDHash : 6CDCC55D
 /// @DnDArgument : "var" "score"
 score = 0;
