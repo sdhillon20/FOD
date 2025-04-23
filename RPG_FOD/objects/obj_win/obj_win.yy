@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_eye",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_win",
+  "eventList":[],
   "managed":true,
-  "name":"obj_eye",
+  "name":"obj_win",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_eye_still",
-    "path":"sprites/spr_eye_still/spr_eye_still.yy",
+    "name":"spr_win",
+    "path":"sprites/spr_win/spr_win.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -49,6 +49,7 @@
     {"id":{"name":"obj_skeleton","path":"objects/obj_skeleton/obj_skeleton.yy",},},
     {"id":{"name":"obj_tile","path":"objects/obj_tile/obj_tile.yy",},},
     {"id":{"name":"obj_warrior","path":"objects/obj_warrior/obj_warrior.yy",},},
+    {"id":{"name":"obj_win","path":"objects/obj_win/obj_win.yy",},},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Dimensional_Portal","path":"sprites/Dimensional_Portal/Dimensional_Portal.yy",},},
@@ -93,6 +94,11 @@
     {"id":{"name":"spr_warrior_left","path":"sprites/spr_warrior_left/spr_warrior_left.yy",},},
     {"id":{"name":"spr_warrior_right","path":"sprites/spr_warrior_right/spr_warrior_right.yy",},},
     {"id":{"name":"spr_warrior_still","path":"sprites/spr_warrior_still/spr_warrior_still.yy",},},
+<<<<<<< Updated upstream
+=======
+    {"id":{"name":"spr_win","path":"sprites/spr_win/spr_win.yy",},},
+    {"id":{"name":"Sprite29","path":"sprites/Sprite29/Sprite29.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"Sprite30","path":"sprites/Sprite30/Sprite30.yy",},},
     {"id":{"name":"Sprite33","path":"sprites/Sprite33/Sprite33.yy",},},
     {"id":{"name":"tileset_floor","path":"tilesets/tileset_floor/tileset_floor.yy",},},
