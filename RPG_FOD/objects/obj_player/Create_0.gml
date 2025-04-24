@@ -21,3 +21,9 @@ score = 0;
 /// @DnDArgument : "var_1" "hpmax"
 hp = 10;
 hpmax = 10;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 52C792CA
+/// @DnDArgument : "var" "attack"
+attack = 0;

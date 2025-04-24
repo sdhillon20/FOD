@@ -623,8 +623,8 @@
     {"name":"inst_23DB5600","path":"rooms/rm_main/rm_main.yy",},
     {"name":"inst_3525877B","path":"rooms/rm_main/rm_main.yy",},
     {"name":"inst_2EF08A4A","path":"rooms/rm_main/rm_main.yy",},
-    {"name":"inst_503D83AA","path":"rooms/rm_main/rm_main.yy",},
-    {"name":"inst_372C4B1A","path":"rooms/rm_main/rm_main.yy",},
+    {"name":"inst_56AF2E61","path":"rooms/rm_main/rm_main.yy",},
+    {"name":"inst_65E1D9B5","path":"rooms/rm_main/rm_main.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -1246,17 +1246,9 @@
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_54AA7F8C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_54AA7F8C","objectId":{"name":"obj_portal","path":"objects/obj_portal/obj_portal.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-1.5841188,"scaleX":8.0,"scaleY":6.0,"x":32.0,"y":160.0,},
         {"$GMRInstance":"v1","%Name":"inst_26F41DD8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_26F41DD8","objectId":{"name":"obj_house","path":"objects/obj_house/obj_house.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":-1.8047186,"scaleX":7.0,"scaleY":6.5,"x":6240.0,"y":256.0,},
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
         {"$GMRInstance":"v1","%Name":"inst_2EF08A4A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2EF08A4A","objectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.9692307,"scaleY":3.0317461,"x":416.0,"y":256.0,},
-        {"$GMRInstance":"v1","%Name":"inst_503D83AA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_503D83AA","objectId":{"name":"obj_apple","path":"objects/obj_apple/obj_apple.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":704.0,"y":352.0,},
-        {"$GMRInstance":"v1","%Name":"inst_372C4B1A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_372C4B1A","objectId":{"name":"obj_crystal","path":"objects/obj_crystal/obj_crystal.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":576.0,"y":288.0,},
-=======
-        {"$GMRInstance":"v1","%Name":"inst_64012064","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_64012064","objectId":{"name":"obj_warrior","path":"objects/obj_warrior/obj_warrior.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.5,"scaleY":4.6363635,"x":544.0,"y":320.0,},
->>>>>>> Stashed changes
-=======
-        {"$GMRInstance":"v1","%Name":"inst_64012064","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_64012064","objectId":{"name":"obj_warrior","path":"objects/obj_warrior/obj_warrior.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.5,"scaleY":4.6363635,"x":544.0,"y":320.0,},
->>>>>>> Stashed changes
+        {"$GMRInstance":"v1","%Name":"inst_56AF2E61","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_56AF2E61","objectId":{"name":"obj_crystal","path":"objects/obj_crystal/obj_crystal.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":320.0,},
+        {"$GMRInstance":"v1","%Name":"inst_65E1D9B5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_65E1D9B5","objectId":{"name":"obj_eye","path":"objects/obj_eye/obj_eye.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.4210526,"scaleY":1.4210526,"x":256.0,"y":224.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"gamemanager","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_3F08E906","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3F08E906","objectId":{"name":"obj_manager","path":"objects/obj_manager/obj_manager.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":9.0,"scaleY":3.0,"x":0.0,"y":0.0,},
