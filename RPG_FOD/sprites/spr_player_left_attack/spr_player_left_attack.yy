@@ -38,7 +38,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"spr_player_left_attack",
     "autoRecord":true,
     "backdropHeight":768,
@@ -69,6 +69,8 @@
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
+    "seqHeight":63.0,
+    "seqWidth":65.0,
     "showBackdrop":true,
     "showBackdropImage":false,
     "timeUnits":1,
