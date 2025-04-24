@@ -50,7 +50,11 @@
     {"id":{"name":"obj_tile","path":"objects/obj_tile/obj_tile.yy",},},
     {"id":{"name":"obj_warrior","path":"objects/obj_warrior/obj_warrior.yy",},},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"id":{"name":"Object16","path":"objects/Object16/Object16.yy",},},
+=======
+    {"id":{"name":"obj_win","path":"objects/obj_win/obj_win.yy",},},
+>>>>>>> Stashed changes
 =======
     {"id":{"name":"obj_win","path":"objects/obj_win/obj_win.yy",},},
 >>>>>>> Stashed changes
@@ -100,7 +104,10 @@
     {"id":{"name":"spr_warrior_still","path":"sprites/spr_warrior_still/spr_warrior_still.yy",},},
     {"id":{"name":"spr_win","path":"sprites/spr_win/spr_win.yy",},},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
     {"id":{"name":"Sprite29","path":"sprites/Sprite29/Sprite29.yy",},},
 >>>>>>> Stashed changes
     {"id":{"name":"Sprite30","path":"sprites/Sprite30/Sprite30.yy",},},
