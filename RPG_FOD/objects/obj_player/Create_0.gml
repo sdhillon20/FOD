@@ -5,8 +5,9 @@
 /// @DnDArgument : "var" "movespeed"
 movespeed = 4;
 
-/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 5EBE55A4
-/// @DnDArgument : "var" "score"
-score = 0;
+/// @DnDHash : 18C839AF
+/// @DnDArgument : "code" "myscore = 0;$(13_10)lives = 3;  // Initialize lives to 3$(13_10)"
+myscore = 0;
+lives = 3;  // Initialize lives to 3

@@ -22,8 +22,8 @@ var l76A9E287_0 = false;l76A9E287_0 = instance_exists(obj_player);if(l76A9E287
 	/// @DnDVersion : 1
 	/// @DnDHash : 47E1115E
 	/// @DnDParent : 76A9E287
-	/// @DnDArgument : "var" "hp"
-	if(hp == 0){	/// @DnDAction : YoYo Games.Game.Restart_Game
+	/// @DnDArgument : "var" "lives"
+	if(lives == 0){	/// @DnDAction : YoYo Games.Game.Restart_Game
 		/// @DnDVersion : 1
 		/// @DnDHash : 05F4ABD2
 		/// @DnDParent : 47E1115E

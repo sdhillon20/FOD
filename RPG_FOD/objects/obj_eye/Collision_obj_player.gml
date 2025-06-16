@@ -1,12 +1,12 @@
-/// @DnDAction : YoYo Games.Instances.Set_Sprite
-/// @DnDVersion : 1
-/// @DnDHash : 7E1F5C94
-/// @DnDArgument : "spriteind" "spr_player_front_attack"
-/// @DnDSaveInfo : "spriteind" "spr_player_front_attack"
-sprite_index = spr_player_front_attack;
-image_index = 0;
+if (!variable_instance_exists(other, "lives")) {
+    other.lives = 3;  // Just in case, initialize lives if missing
+}
 
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
-/// @DnDVersion : 1
-/// @DnDHash : 4B6E8B59
-instance_destroy();
+if (other.sprite_index == spr_player_front_attack) {
+    instance_destroy();  // Destroy eye if player is attacking
+} else {
+    other.lives -= 1;    // Subtract life otherwise
+    if (other.lives <= 0) {
+       room_goto(rm_main)
+    }
+}

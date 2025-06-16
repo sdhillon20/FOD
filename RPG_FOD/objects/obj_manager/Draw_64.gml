@@ -1,10 +1,3 @@
-/// @DnDAction : YoYo Games.Drawing.Draw_Value
-/// @DnDVersion : 1
-/// @DnDHash : 4368B398
-/// @DnDArgument : "caption" ""score: ""
-/// @DnDArgument : "var" "score"
-draw_text(0, 0, string("score: ") + string(score));
-
 /// @DnDAction : YoYo Games.Drawing.Draw_Sprites_Stacked
 /// @DnDVersion : 1
 /// @DnDHash : 415A47FF

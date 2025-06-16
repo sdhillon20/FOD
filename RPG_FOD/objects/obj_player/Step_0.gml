@@ -1,17 +1,14 @@
-/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
-/// @DnDHash : 6140047A
-/// @DnDArgument : "var" "lives"
-/// @DnDArgument : "op" "3"
-if(lives <= 0){	/// @DnDAction : YoYo Games.Game.Restart_Game
-	/// @DnDVersion : 1
-	/// @DnDHash : 37168E1D
-	/// @DnDParent : 6140047A
-	game_restart();
+/// @DnDHash : 7B0CF11E
+/// @DnDArgument : "code" "$(13_10)// Attack when space is held$(13_10)if (keyboard_check(vk_space)) {$(13_10)    sprite_index = spr_player_front_attack; // Replace with your a$(13_10)}$(13_10)$(13_10)// Restart game if out of hearts$(13_10)if (lives <= 0) {$(13_10)    game_restart();$(13_10)}$(13_10)"
 
-	/// @DnDAction : YoYo Games.Common.Variable
-	/// @DnDVersion : 1
-	/// @DnDHash : 7C85B6A9
-	/// @DnDParent : 6140047A
-	/// @DnDArgument : "var" "score"
-	score = 0;}
+// Attack when space is held
+if (keyboard_check(vk_space)) {
+    sprite_index = spr_player_front_attack; // Replace with your a
+}
+
+// Restart game if out of hearts
+if (lives <= 0) {
+    game_restart();
+}
